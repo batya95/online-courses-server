@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "מתמטיקה",
+    "categoryId": 9,
+    "lessonsCount": 10,
+    "startDate": "2024-09-15",
+    "syllabus": [
+      "איך ללמוד חשבון",
+      "איך ללמד חשבון"
+    ],
+    "learningMode": 1,
+    "lecturerId": 3,
+    "imagePath": "assets/image3.png",
+    "description": "בקורס נלמד הרבה על חשבון ומרכיביו"
+  },
+  {
+    "id": 2,
+    "name": "ללל",
+    "categoryId": 4,
+    "lessonsCount": 15,
+    "startDate": "1996-11-08",
+    "syllabus": [
+      "לללללל"
+    ],
+    "learningMode": 0,
+    "lecturerId": 3,
+    "imagePath": "assets/image1.png",
+    "description": "ללל ללל ללל לללל "
+  },
+  {
+    "id": 3,
+    "name": "gfgfg",
+    "categoryId": 1,
+    "lessonsCount": 15,
+    "startDate": "2025-05-10",
+    "syllabus": [
+      "hghgh"
+    ],
+    "learningMode": 1,
+    "lecturerId": 3,
+    "imagePath": "assets/image3.png",
+    "description": "hftrsxvbhg hgtrdgb"
+  },
+  {
+    "id": 4,
+    "name": "bcgdf",
+    "categoryId": 1,
+    "lessonsCount": 15,
+    "startDate": "2026-05-10",
+    "syllabus": [
+      "jh"
+    ],
+    "learningMode": 0,
+    "lecturerId": 3,
+    "imagePath": "assets/image3.png",
+    "description": "nbhg"
+  },
+  {
+    "id": 5,
+    "name": "מבוא לאלגוריתמים",
+    "categoryId": 1,
+    "lessonsCount": 15,
+    "startDate": "2024-09-20",
+    "syllabus": [
+      "מבוא לאליגוריתמים"
+    ],
+    "learningMode": 1,
+    "lecturerId": null,
+    "imagePath": "assets/image5.png",
+    "description": "בקורס נלמד...."
+  }
+]

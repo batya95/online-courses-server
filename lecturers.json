@@ -1,0 +1,82 @@
+[
+  {
+    "name": "נחלעעלח",
+    "email": "מ@ע",
+    "password": "353468513",
+    "address": "",
+    "isLecturer": true,
+    "id": 1
+  },
+  {
+    "name": "גיננדי",
+    "email": "k@g",
+    "password": "123456789",
+    "address": "בני ברק",
+    "isLecturer": true,
+    "id": 2
+  },
+  {
+    "name": "לאהלה",
+    "email": "ש@ע",
+    "password": "47895",
+    "address": "",
+    "isLecturer": true,
+    "id": 3
+  },
+  {
+    "name": "לאה",
+    "email": "/@xn--geb",
+    "password": "354352",
+    "address": "חלניחעסעכ",
+    "isLecturer": true,
+    "id": 4
+  },
+  {
+    "name": "לאהלהחל",
+    "email": "",
+    "password": "",
+    "address": "",
+    "isLecturer": true,
+    "id": 5
+  },
+  {
+    "name": "hi batya",
+    "email": "",
+    "password": "",
+    "address": "",
+    "isLecturer": true,
+    "id": 6
+  },
+  {
+    "name": "בתיה לבקוביץ",
+    "email": "bl475895@gmail.com",
+    "password": "1234",
+    "address": "מיכשוילי 28",
+    "isLecturer": true,
+    "id": 7
+  },
+  {
+    "name": "batya",
+    "email": "",
+    "password": "",
+    "address": "",
+    "isLecturer": true,
+    "id": 8
+  },
+  {
+    "name": "נעמה",
+    "email": "ע@ח",
+    "password": "456123",
+    "address": "בני ברק",
+    "isLecturer": true,
+    "id": 9
+  },
+  {
+    "name": "נחמה לבקוביץ",
+    "email": "bl475895@gmail.com",
+    "password": "4545",
+    "address": "מיגשוילי 28",
+    "isLecturer": true,
+    "id": 10
+  }
+]
